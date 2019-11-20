@@ -1,12 +1,6 @@
-/*
- * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
- *
- * Distributed under terms of the %LICENSE% license.
- */
+/* %FFILE% */
 
-public class %FILE%
-{
+public class %FILE% {
 	public %FILE%() {
 		%HERE%
 	}
